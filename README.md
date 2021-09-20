@@ -4,7 +4,7 @@ Friend me on Discord if you want a bot or if you want to learn.
 
 ### Projects -
 - A Discord bot for the [Vuln Discord Server](https://discord.gg/fcvT9xRBDt) - Not Open Source
-- [Discord Scrum Bot](https://TheOnlyWayUp/ScrumBot)
+- [Discord Scrum Bot](https://github.com/TheOnlyWayUp/ScrumBot)
 
 **Stats**
 
