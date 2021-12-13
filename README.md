@@ -15,19 +15,20 @@
 
 **Languages & Frameworks**
 
-Python
+### Python
 
--------
 - Django
 - Discord.py
 - aiohttp/asyncio structures
 - Flask
 - SQL, General Database stuff
 
+-------
 
-HTML, CSS, JS
+### HTML, CSS, JS
+
+- Bootstrap, Tailwind, DaisyUI, general HTML and more.
 
 -------
-- Bootstrap, Tailwind, DaisyUI, general HTML and more.
 
 I'm a pretty well rounded programmer, hmu at TheOnlyWayUp#1231 if you need anything.
