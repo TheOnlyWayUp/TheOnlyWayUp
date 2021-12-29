@@ -15,21 +15,13 @@
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=TheOnlyWayUp&count_private=true&custom_title=TheOnlyWayUp%20-%20Python%20Gang&title_color=e5e5e5&text_color=cdc9c9&bg_color=4c40c7&border_color=81a3ff&border_radius=25)
 
-**Languages & Frameworks**
-
 ### Python
 
-- Django
-- Discord.py
+- Django, Flask, Quart
+- Discord.py, Discord.py-self, OAuth2
 - aiohttp/asyncio structures
-- Flask
-- SQL, General Database stuff
-
--------
-
-### HTML, CSS, JS
-
-- Bootstrap, Tailwind, DaisyUI, general HTML and more.
+- SQL, MongoDB, Firebase
+- Keras, Tensorflow
 
 -------
 
