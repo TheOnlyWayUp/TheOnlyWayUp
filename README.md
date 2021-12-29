@@ -26,3 +26,8 @@
 -------
 
 I'm a pretty well rounded programmer, hmu at TheOnlyWayUp#1231 if you need anything.
+
+-------
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOnlyWayUp&layout=compact)
+
