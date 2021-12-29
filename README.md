@@ -8,6 +8,7 @@
 - [Async Animanga](https://github.com/TheOnlyWayUp/Async-Animanga)
 - [The Ether Project's Discord Bot](https://github.com/TheOnlyWayUp/TheEtherBot)
 - [MCStalker](https://mcstalker.com/ref/github) (Nothing useful I can share, check out the [Organisation](https://github.com/MC-Stalker) for public repos.)
+- [HangmanSolver](https://pypi.org/project/HangmanSolver/)
 - And more! I have a large number of private repositries and projects though.
 
 **Stats**
