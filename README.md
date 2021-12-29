@@ -7,7 +7,7 @@
 - [MCStalker API Wrapper](https://github.com/TheOnlyWayUp/mcStalkerApiWrapper)
 - [Async Animanga](https://github.com/TheOnlyWayUp/Async-Animanga)
 - [The Ether Project's Discord Bot](https://github.com/TheOnlyWayUp/TheEtherBot)
-- [MCStalker](https://mcstalker.com/ref/github) (Can't reveal *what* I'm working on, and no public repos as of yet.)
+- [MCStalker](https://mcstalker.com/ref/github) (Nothing useful I can share, check out the [Organisation](https://github.com/MC-Stalker) for public repos.)
 - And more! I have a large number of private repositries and projects though.
 
 **Stats**
