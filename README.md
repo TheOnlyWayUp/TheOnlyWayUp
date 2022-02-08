@@ -9,7 +9,7 @@
 - [The Ether Project's Discord Bot](https://github.com/TheOnlyWayUp/TheEtherBot)
 - [MCStalker](https://mcstalker.com/ref/github) (Nothing public I can share, check out the [Organisation](https://github.com/MC-Stalker) for repos.)
 - [HangmanSolver](https://pypi.org/project/HangmanSolver/)
-- And more! I have a large number of private repositries and projects though.
+- And more! I have a large number of private repositories and projects though.
 
 **Stats**
 
