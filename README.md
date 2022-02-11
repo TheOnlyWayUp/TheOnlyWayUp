@@ -1,5 +1,5 @@
 ## TheOnlyWayUp#1231
-#### A Python Developer, fluent in Discord.py, FastAPI, Object-Oriented Programming, and more. Currently learning Git.
+#### A Python Developer, fluent in Discord.py, FastAPI, Object-Oriented Programming, and more. Currently working on a program to automate written assessment correction.`
 
 ### Projects -
 - [VULN Discord Bot](https://github.com/TheOnlyWayUp/VulnRemake)
