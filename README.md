@@ -9,12 +9,11 @@
 <h3>What I know -</h3>
 
 - Django, Flask, Quart, FastAPI, IDOM, Firebase
-- Discord.py, Discord.py-self, OAuth2
-- aiohttp/asyncio structures
+- Keras, Tensorflow, Numpy, Pandas, Matplotlib
+- Hetzner, DigitalOcean, Google Cloud Platform
+- Discord.py, Discord.py-self, OAuth2, JWT
 - SQL, MongoDB, JSON, YAML, TOML
-- Keras, Tensorflow, Numpy, Pandas
-
-<br>
+- aiohttp/asyncio structures
 
 -------
 
@@ -22,7 +21,7 @@
 </h4>
 
 --------
-<br>
+
 <a href="https://youtube.com/c/TheOnlyWayUp"><img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'></img></a>
 <a href='https://twitter.com/Th3OnlyWayUp'>
 <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>
@@ -58,9 +57,8 @@
 <br>
 
 <h3>Completed Projects -</h3>
-<br>
 <p align="left">
-<a href='https://github.com/TheOnlyWayUp/mcStalkerApiWrapper'></a><img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=mcStalkerApiWrapper&theme=dark&show_icons=true'></a>
+<a href='https://github.com/TheOnlyWayUp/mcStalkerApiWrapper'><img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=mcStalkerApiWrapper&theme=dark&show_icons=true'></a>
 <a href='https://github.com/TheOnlyWayUp/Async-Animanga'><img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=Async-Animanga&theme=dark&show_icons=true'></a>
 <a href='https://github.com/TheOnlyWayUp/TheEtherBot'><img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=TheEtherBot&theme=dark&show_icons=true'></a>
 <a href='https://github.com/TheOnlyWayUp/VulnRemake'><img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=VulnRemake&theme=dark&show_icons=true'></a>
