@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&color=%23C463FF&size=25&duration=6000&vCenter=true&lines=TheOnlyWayUp%231231;FastAPI+and+ML+Enthusiast&center=true">
 <br>
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg"><img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg"><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg'>
 <br>
 <h4>I'm a Python Developer who's fluent in efficient, production-ready code with 7+ years of experience in Python. I've had experience working on quite a few projects, both as part of teams and solo. I code because I enjoy learning, and problem solving.</h4>
 
