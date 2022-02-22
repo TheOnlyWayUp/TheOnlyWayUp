@@ -60,12 +60,12 @@ I'm currently open to working on other projects, contact me at [TheOnlyWayUp#123
 <h3>Completed Projects -</h3>
 <br>
 <p align="left">
-<a href='https://github.com/TheOnlyWayUp/mcStalkerApiWrapper'></a><img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=mcStalkerApiWrapper&theme=dark&show_icons=true'></a>
-<a href='https://github.com/TheOnlyWayUp/Async-Animanga'><img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=Async-Animanga&theme=dark&show_icons=true'></a>
-<a href='https://github.com/TheOnlyWayUp/TheEtherBot'><img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=TheEtherBot&theme=dark&show_icons=true'></a>
-<a href='https://github.com/TheOnlyWayUp/VulnRemake'><img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=VulnRemake&theme=dark&show_icons=true'></a>
+<a href='https://github.com/TheOnlyWayUp/mcStalkerApiWrapper'></a><img height='190px' width='500px' src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=mcStalkerApiWrapper&theme=dark&show_icons=true'></a>
+<a href='https://github.com/TheOnlyWayUp/Async-Animanga'><img height='190px' width='500px' src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=Async-Animanga&theme=dark&show_icons=true'></a>
+<a href='https://github.com/TheOnlyWayUp/TheEtherBot'><img height='190px' width='500px' src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=TheEtherBot&theme=dark&show_icons=true'></a>
+<a href='https://github.com/TheOnlyWayUp/VulnRemake'><img height='190px' width='500px' src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=VulnRemake&theme=dark&show_icons=true'></a>
 <a href='https://github.com/TheOnlyWayUp/ScrumBot'>
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=ScrumBot&theme=dark&show_icons=true'>
+<img height='190px' width='500px' src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=ScrumBot&theme=dark&show_icons=true'>
 </a>
 </p>
 
