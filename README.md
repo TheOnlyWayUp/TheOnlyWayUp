@@ -4,9 +4,8 @@
 <br>
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg"><img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
 <br>
-<br>
 <h4>I'm a Python Developer who's fluent in efficient, production-ready code with 7+ years of experience in Python. I've had experience working on quite a few projects, both as part of teams and solo. I code because I enjoy learning, and problem solving.</h4>
-<br>
+
 <h3>What I know -</h3>
 
 - Django, Flask, Quart, FastAPI, IDOM, Firebase
@@ -19,7 +18,8 @@
 
 -------
 
-I'm currently open to working on other projects, contact me at [TheOnlyWayUp#1231](https://discord.com/users/876055467678375998) if you have any ideas, or if you want to collaborate.
+<h4>I'm currently open to working on other projects, contact me at <a href='https://discord.com/users/876055467678375998'></a>TheOnlyWayUp#1231</a> if you have any ideas, or if you want to collaborate.
+</h4>
 
 --------
 <br>
@@ -60,12 +60,12 @@ I'm currently open to working on other projects, contact me at [TheOnlyWayUp#123
 <h3>Completed Projects -</h3>
 <br>
 <p align="left">
-<a href='https://github.com/TheOnlyWayUp/mcStalkerApiWrapper'></a><img height='190px' width='500px' src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=mcStalkerApiWrapper&theme=dark&show_icons=true'></a>
-<a href='https://github.com/TheOnlyWayUp/Async-Animanga'><img height='190px' width='500px' src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=Async-Animanga&theme=dark&show_icons=true'></a>
-<a href='https://github.com/TheOnlyWayUp/TheEtherBot'><img height='190px' width='500px' src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=TheEtherBot&theme=dark&show_icons=true'></a>
-<a href='https://github.com/TheOnlyWayUp/VulnRemake'><img height='190px' width='500px' src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=VulnRemake&theme=dark&show_icons=true'></a>
+<a href='https://github.com/TheOnlyWayUp/mcStalkerApiWrapper'></a><img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=mcStalkerApiWrapper&theme=dark&show_icons=true'></a>
+<a href='https://github.com/TheOnlyWayUp/Async-Animanga'><img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=Async-Animanga&theme=dark&show_icons=true'></a>
+<a href='https://github.com/TheOnlyWayUp/TheEtherBot'><img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=TheEtherBot&theme=dark&show_icons=true'></a>
+<a href='https://github.com/TheOnlyWayUp/VulnRemake'><img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=VulnRemake&theme=dark&show_icons=true'></a>
 <a href='https://github.com/TheOnlyWayUp/ScrumBot'>
-<img height='190px' width='500px' src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=ScrumBot&theme=dark&show_icons=true'>
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=ScrumBot&theme=dark&show_icons=true'>
 </a>
 </p>
 
