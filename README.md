@@ -63,7 +63,7 @@
 <a href='https://github.com/TheOnlyWayUp/TheEtherBot'><img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=TheEtherBot&theme=dark&show_icons=true'></a>
 <a href='https://github.com/TheOnlyWayUp/VulnRemake'><img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=VulnRemake&theme=dark&show_icons=true'></a>
 <a href='https://github.com/TheOnlyWayUp/ScrumBot'>
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=ScrumBot&theme=dark&show_icons=true'>
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyWayUp&repo=ScrumBot&theme=dark&show_icons=true&'>
 </a>
 </p>
 
