@@ -1,6 +1,5 @@
-
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&color=%23C463FF&size=25&duration=6000&vCenter=true&lines=TheOnlyWayUp%231231;FastAPI+and+ML+Enthusiast&center=true">
+<img src="https://hits.theonlywayup.live">
 <br>
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg"><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg'>
 <br>
