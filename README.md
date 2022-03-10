@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://hits.theonlywayup.live">
 <br>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=hits.theonlywayup.live">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg"><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg'>
 <br>
 <h4>I'm a Python Developer who's fluent in efficient, production-ready code with 7+ years of experience in Python. I've had experience working on quite a few projects, both as part of teams and solo. I code because I enjoy learning, and problem solving.</h4>
