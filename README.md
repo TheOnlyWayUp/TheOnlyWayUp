@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://hits.theonlywayup.live">
+<img src="https://hits.theonlywayup.live/hit">
 <br>
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg"><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg'>
 <br>
