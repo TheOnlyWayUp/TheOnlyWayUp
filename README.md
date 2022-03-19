@@ -2,6 +2,8 @@
 <img src="https://hits.theonlywayup.live/hit">
 <br>
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg"><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg'>
+<br><br>
+<a href="https://blog.theonlywayup.live"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a><a href="https://dev.to/theonlywayup"><img src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 <br>
 <h4>I'm a Python Developer who's fluent in efficient, production-ready code with 7+ years of experience in Python. I've had experience working on quite a few projects, both as part of teams and solo. I code because I enjoy learning, and problem solving.</h4>
 
@@ -21,13 +23,13 @@
 
 --------
 
-<a href="https://youtube.com/c/TheOnlyWayUp"><img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'></img></a>
+<a href="https://www.youtube.com/channel/UC1VLT-o6mQATapwna9mjvnQ"><img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'></img></a>
 <a href='https://twitter.com/Th3OnlyWayUp'>
 <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>
+</a>
 <a href='https://www.reddit.com/user/Th3OnlyWayUp'>
 <img src='https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white'>
 </a>
-
 <p align="center">
 <a href="https://www.youtube.com/channel/UC1VLT-o6mQATapwna9mjvnQ?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UC1VLT-o6mQATapwna9mjvnQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
