@@ -52,8 +52,9 @@
     - <details><summary>Automatic Assessment Evaluation</summary>A program can generate answers from a given dataset and question sheet, and compare these answers to submitted answers to return a percentage of accuracy in meaning.</details>
     - <details><summary>Audio Transcriber & Profiler</summary>A Model that can transcribe audio and over time, relate different voices to usernames.</details>
 - Learning
-    - [EdgeQL & EdgeDB](https://github.com/edgedb/edgedb/)
-    - [Creating ASTs](https://deepsource.io/blog/python-asts-by-building-your-own-linter/) <- Check it out, it's pretty interesting!
+    - [Prisma DB](https://prisma-client-py.readthedocs.io/en/stable/) :star:
+    - Server side Rendering using Jinja2 and FastAPI
+    - [Implementing @property, @staticmethod and @classmethod in Python](https://sadh.life/post/descriptors/) :star: (Very cool)
 
 <br>
 
