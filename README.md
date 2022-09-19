@@ -79,9 +79,9 @@ Current Stack
 - [Prisma](https://prisma.io) and [Prisma-Client-Python](Prisma-client-py.readthedocs.io/en/stable/) for persistent data.
 - [Redis](https://redis.io), [aioredis](https://aioredis.readthedocs.io/en/latest/) and my [Cookie Handler](https://gist.github.com/TheOnlyWayUp/950402b17b88797f527e3935f31f913a) script.
 - [FastAPI](https://fastapi.tiangolo.com/) to build APIs, and [Jinja2](https://svn.python.org/projects/external/Jinja-2.1.1/docs/_build/html/index.html) for simple frontends.
-- [Pydantic](https://pydantic-docs.helpmanual.io/) with [Pydantic Factories](https://goldziher.github.io/pydantic-factories/) for fake data generation
+- [Pydantic](https://pydantic-docs.helpmanual.io/) for data validation, with [Pydantic Factories](https://goldziher.github.io/pydantic-factories/) for data generation.
 - [dataclasses](https://docs.python.org/3/library/dataclasses.html) to cleanly implement custom class behaviour.
 - [Hetzner](https://www.hetzner.com/cloud) for affordable cloud hosting.
-- [Svelte Kit](https://kit.svelte.dev) to build web apps, with [Tailwind](https://tailwindcss.com) and [DaisyUI](https://daisyui.com)
+- [Svelte Kit](https://kit.svelte.dev) to build web apps, with [Tailwind](https://tailwindcss.com) and [DaisyUI](https://daisyui.com).
 
 I'm currently trying out the [T3](https://github.com/t3-oss/create-t3-app) Stack with Svelte support added by [`create-t3svelte-app`](https://github.com/zach-hopkins/create-t3svelte-app).
