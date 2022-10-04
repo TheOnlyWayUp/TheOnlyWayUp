@@ -23,7 +23,10 @@ I'm TheOnlyWayUp, a Full-Stack Developer with 8 Years of Experience. I love lear
 -----------
 
 <div align="left"><p>
-I'm open to work on projects. If you have a business need, you can contact me with a brief description of your requirements for a quote. If you're interested in working on an Open Source Project together, or have a question, feel free to hit me up :)
+
+I'm open to work on projects.
+- If you have a business need, you can contact me with a brief description of your requirements for a quote. 
+- If you're interested in working on an Open Source Project together, or have a question, feel free to hit me up :)
 
 
 📧 - [thedarkdraconian [at] gmail.com](mailto://thedarkdraconian@gmail.com) (Email)  
