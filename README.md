@@ -91,7 +91,7 @@ I'm open to work on projects.
 - Google Cloud Platform (OAuth2, AI/ML APIs, Firebase), Amazon Web Services (Cognito, S3 Buckets, Data Storage), Microsoft Azure (Backend as a Service), Hetzner (VPS Provider), Linode (VPS Provider), DigitalOcean (VPS Provider), Scaleway (Serverless Functions), Cloudflare Workers (Serverless Functions)
 
 **General Skills**
-- Discord Bots (Disnake, Discord.py, and PyCord), OAuth2 Flows, JWT handling, Sensitive Data Storage and Data Sovereignty, Symmetric and Symmetric Encryption Methods, I/O Intensive Optimization with Asynchronous Structures, Payment Gateway Integrations (Stripe), Simple Data Visualization with Matplotlib, Container Orchestration, Scaling and Load Balancing, Payment Strategies (Metered Billing/Pay Per Use, Subscription Services, etc.), and Comparing Images, Audio and Text for Similarity
+- Discord Bots (Disnake, Discord.py, and PyCord), OAuth2 Flows, JWT handling, Sensitive Data Storage and Data Sovereignty, Symmetric and Ayymmetric Encryption Methods, I/O Intensive Optimization with Asynchronous Structures, Payment Gateway Integrations (Stripe), Simple Data Visualization with Matplotlib, Container Orchestration, Scaling and Load Balancing, Payment Strategies (Metered Billing/Pay Per Use, Subscription Services, etc.), and Comparing Images, Audio and Text for Similarity
 
 </details>
 
