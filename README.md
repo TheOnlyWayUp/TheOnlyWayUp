@@ -116,6 +116,6 @@ I'm currently trying out the [T3](https://github.com/t3-oss/create-t3-app) Stack
 <br>
 
 <div align="center">
-    <p>TheOnlyWayUp © 2022</p>
+    <p>TheOnlyWayUp © 2023</p>
 </div>
 
