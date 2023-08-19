@@ -43,14 +43,13 @@ I'm open to work on projects.
 
 ---------
 
-<h3>Working on:</h3>
+I'm currently learning about __Digital Twin Technology__.
 
-- Machine Learning
-    <p><details><summary>Tagging Job Posts with NLP</summary>Automatically tag Job Posts based on what Skills are Required, Whether the job is Remote/Hybrid/Onsite and the years of experience required. Automatically send Resumes to relevant Postings.</details></p>
-    <p><details><summary>Automatic Assessment Evaluation (OCR, NLP)</summary>Scan a textbook PDF and get the perfect answer for any Question (taking into account the length required, marks allocated, etc.). Assist Educators with this Tiresome task by displaying a measure of accuracy between the Student's answer and variations of the textbook content.</details></p>
-- Learning
-    - [SvelteKit](https://kit.svelte.dev)
-    - Deploying and Maintaining a Local Linux Server (to reduce hosting costs)
+[Obsidian](https://obsidian.md) Wizard.
+
+I'm professionally working on integrating generative AI with high school education - leveraging GPT and self-developed language models, UI/UX Design Concepts, and Habit Development.
+
+I'm personally working on a large scale data retrieval project - leveraging key-value stores, document databases, message brokers, and the rust programming language.
 
 -----------
 
@@ -64,7 +63,7 @@ I'm open to work on projects.
 <div align="left">
 
 **Source Control**
-- Git, Apache Subversion, and Mercurial
+- Git, and Apache Subversion (SVN)
 
 **Backend Frameworks**
 - FastAPI, SvelteKit, Node.JS, Django, Flask, Quart, and Bun
@@ -73,25 +72,25 @@ I'm open to work on projects.
 - Svelte, Jinja2, and Next.js
 
 **Containerization**
-- Docker, Docker-Compose, and K8s (Kubernetes)
+- Docker, Docker-Compose, and K8s (Kubernetes) + Helm
 
 **Databases**
-- PostgreSQL, SQLite, MongoDB, CouchDB, CockroachDB and InfluxDB
+- PostgreSQL, SQLite, MongoDB, CouchDB, CockroachDB, Infinigraph, Milvus (VectorDB), Qdrant (VectorDB), and InfluxDB
 
 **AI/ML**
 - SpaCy (NLP), Tensorflow (Machine Learning), Keras (Deep Learning/Artificial Neural Networks)
 
 **Data Visualization**
-- Tableau, Grafana, and Google Charts
+- Tableau, Grafana, Google Charts, PowerBI, Seaborn, and Matplotlib
 
 **Data Manipulation**
-- Datasette (Exploration), Pandas & NumPy (Representation, Manipulation)
+- Datasette (Exploration), Pandas & NumPy (Representation, Manipulation), Polars
 
 **Cloud Platforms**
 - Google Cloud Platform (OAuth2, AI/ML APIs, Firebase), Amazon Web Services (Cognito, S3 Buckets, Data Storage), Microsoft Azure (Backend as a Service), Hetzner (VPS Provider), Linode (VPS Provider), DigitalOcean (VPS Provider), Scaleway (Serverless Functions), Cloudflare Workers (Serverless Functions)
 
 **General Skills**
-- Discord Bots (Disnake, Discord.py, and PyCord), OAuth2 Flows, JWT handling, Sensitive Data Storage and Data Sovereignty, Symmetric and Asymmetric Encryption Methods, I/O Intensive Optimization with Asynchronous Structures, Payment Gateway Integrations (Stripe), Complex and Simple Data Visualization (Seaborn, Matplotlib), Container Orchestration, Scaling and Load Balancing, Payment Strategies (Metered Billing/Pay Per Use, Subscription Services, etc.), and Comparing Images, Audio and Text for Similarity
+- Discord Bots (Disnake, Discord.py, and PyCord), OAuth2 Flows, JWT handling, Sensitive Data Storage and Data Sovereignty, Symmetric and Asymmetric Encryption Methods, I/O Intensive Optimization with Asynchronous Structures, Payment Gateway Integrations (Stripe), Complex and Simple Data Visualization (Seaborn, Matplotlib), Container Orchestration, Scaling and Load Balancing, Payment Strategies (Metered Billing/Pay Per Use, Subscription Services, etc.), and Comparing Images, Audio and Text for Similarity. Minecraft Plugin Development, Minecraft Server Management.
 
 </details>
 
@@ -106,9 +105,6 @@ I'm open to work on projects.
 - [FastAPI](https://fastapi.tiangolo.com/) to build APIs, and experience with [Jinja2](https://svn.python.org/projects/external/Jinja-2.1.1/docs/_build/html/index.html).
 - [Pydantic](https://pydantic-docs.helpmanual.io/) for data validation, with [Pydantic Factories](https://goldziher.github.io/pydantic-factories/) for data generation. With [dataclasses](https://docs.python.org/3/library/dataclasses.html) to cleanly implement custom class behaviour.
 - [Svelte Kit](https://kit.svelte.dev) to build web apps, with [Tailwind](https://tailwindcss.com) and PostCSS.
-
-I'm currently learning about __Digital Twin Technology__.
-
 
 -----------
 
