@@ -109,7 +109,7 @@ Playing around with IPFS.
 
 #### Current Stack
 - Database: [Prisma](https://prisma.io) (Python and TS) with [PostgreSQL](https://www.postgresql.org) and [MongoDB](https://www.mongodb.com).
-- [Docker](https://docker.com) and [Docker-compose](https://docs.docker.com/compose/) for Small Scale Projects.
+- [Docker](https://docker.com) and [Docker-compose](https://docs.docker.com/compose/) for Hobby Projects.
 - [Kubernetes (K8S)](https://kubernetes.io) and [Helm](https://helm.sh) for Industrial Scale, where uptime, efficiency, and fine-control are Integral.
 - [FastAPI](https://fastapi.tiangolo.com/) to build APIs, and experience with [Jinja2](https://svn.python.org/projects/external/Jinja-2.1.1/docs/_build/html/index.html).
 - [Pydantic](https://pydantic-docs.helpmanual.io/) for data validation, with [Pydantic Factories](https://goldziher.github.io/pydantic-factories/) for data generation. With [dataclasses](https://docs.python.org/3/library/dataclasses.html) to cleanly implement custom class behaviour.
