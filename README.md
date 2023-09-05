@@ -47,9 +47,11 @@ I'm currently learning about __Digital Twin Technology__.
 
 [Obsidian](https://obsidian.md) Wizard.
 
-I'm professionally working on integrating generative AI with high school education - leveraging GPT and self-developed language models, UI/UX Design Concepts, and Habit Development.
+I'm professionally working on integrating generative AI with high school education - leveraging GPT and self-developed language models, UI/UX Design Concepts, Neural Networks, and Habit Development.
 
 I'm personally working on a large scale data retrieval project - leveraging key-value stores, document databases, message brokers, and the rust programming language.
+
+Playing around with IPFS.
 
 -----------
 
@@ -79,6 +81,8 @@ I'm personally working on a large scale data retrieval project - leveraging key-
 
 **AI/ML**
 - SpaCy (NLP), Tensorflow (Machine Learning), Keras (Deep Learning/Artificial Neural Networks)
+- I'm fluent with Neural Networks, Transformers, Decision Trees, and Nearest Neighbour Algorithms.
+- Vector Databases, Embeddings, Similarity Searching, the like. I understand AI/ML at a theoretical level and can implement all of these concepts in pure Python. 
 
 **Data Visualization**
 - Tableau, Grafana, Google Charts, PowerBI, Seaborn, and Matplotlib
@@ -88,9 +92,14 @@ I'm personally working on a large scale data retrieval project - leveraging key-
 
 **Cloud Platforms**
 - Google Cloud Platform (OAuth2, AI/ML APIs, Firebase), Amazon Web Services (Cognito, S3 Buckets, Data Storage), Microsoft Azure (Backend as a Service), Hetzner (VPS Provider), Linode (VPS Provider), DigitalOcean (VPS Provider), Scaleway (Serverless Functions), Cloudflare Workers (Serverless Functions)
+- FinOps, Data Sovereignty, Containerization, Container Optimization and Orchestration with Horizontal Scaling and Load Balancing
+- Secrets Management
+
+**Protocols**
+- (S)FTP, (E)SMTP(S), HTTP(S), IPFS, IPv4, TCP, UDP, IPv6, IPC, gRPC, RPC, protobuf, MIME
 
 **General Skills**
-- Discord Bots (Disnake, Discord.py, and PyCord), OAuth2 Flows, JWT handling, Sensitive Data Storage and Data Sovereignty, Symmetric and Asymmetric Encryption Methods, I/O Intensive Optimization with Asynchronous Structures, Payment Gateway Integrations (Stripe), Complex and Simple Data Visualization (Seaborn, Matplotlib), Container Orchestration, Scaling and Load Balancing, Payment Strategies (Metered Billing/Pay Per Use, Subscription Services, etc.), and Comparing Images, Audio and Text for Similarity. Minecraft Plugin Development, Minecraft Server Management.
+- Discord Bots (Disnake, Discord.py, and PyCord), OAuth2 Flows, JWT handling, Symmetric and Asymmetric Encryption Methods, I/O Intensive Optimization with Asynchronous Structures, Payment Gateway Integrations (Stripe), Complex and Simple Data Visualization (Seaborn, TF Projector, Matplotlib), Payment Strategies (Metered Billing/Pay Per Use, Subscription Services, etc.), and Comparing Images, Audio and Text for Similarity. Minecraft Plugin Development, Minecraft Server Management.
 
 </details>
 
