@@ -47,11 +47,13 @@ I'm currently learning about __Digital Twin Technology__.
 
 [Obsidian](https://obsidian.md) Wizard.
 
-I'm professionally working on integrating generative AI with high school education - leveraging GPT and self-developed language models, UI/UX Design Concepts, Neural Networks, and Habit Development.
+I'm professionally working on integrating generative AI with high school education - leveraging effective product design with cutting-edge models.
 
 I'm personally working on a large scale data retrieval project - leveraging key-value stores, document databases, message brokers, and the rust programming language.
 
-Playing around with IPFS.
+Playing around with Vision Language Models, Instance Segmentation.
+
+Home-labber, experimenting with Tailscale+Headscale.
 
 -----------
 
