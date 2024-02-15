@@ -122,6 +122,6 @@ Home-labber, experimenting with Tailscale+Headscale.
 <br>
 
 <div align="center">
-    <p>TheOnlyWayUp © 2023</p>
+    <p>TheOnlyWayUp © 2024</p>
 </div>
 
