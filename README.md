@@ -40,7 +40,7 @@ I'm open to work on projects.
 ---------
 
 <div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=TheOnlyWayUp&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=AB2CDD&ring=946AFD&fire=DD2727&sideLabels=7CDD9F">
+<img src="https://streak-stats.demolab.com?user=TheOnlyWayUp&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=AB2CDD&ring=946AFD&fire=DD2727&sideLabels=7CDD9F">
 </div>
 
 ---------
