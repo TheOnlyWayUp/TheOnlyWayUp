@@ -20,22 +20,14 @@ I'm TheOnlyWayUp, a Full-Stack Developer with 8 Years of Experience. I love lear
 
 <a href="https://rambhat.la">Website</a>
 
-</div>
-
------------
-
-<div align="left"><p>
-
-I'm open to work on projects.
-- If you have a business need, you can contact me with a brief description of your requirements for a quote. 
-- If you're interested in working on an Open Source Project together, or have a question, feel free to hit me up :)
+![image](https://github.com/user-attachments/assets/fa507365-5462-4839-b16d-9ff7552a998e)
 
 
 📧 - [hi [at] towu.dev](mailto://hi@towu.dev) (Email)  
 💬 - [TheOnlyWayUp](https://discord.com/users/876055467678375998) (Discord)
 
 
-</p></div>
+</div></div>
     
 ---------
 
@@ -45,22 +37,20 @@ I'm open to work on projects.
 
 ---------
 
-I'm currently building [Textbook-GPT](https://textbook-gpt.com).
-
 [Obsidian](https://obsidian.md) Wizard and Homelabber!
 
-I write fun stuff about my projects, workflows, and homelab setup on [my blog](https://rambhat.la).
+I write fun stuff about what I do on [ponder](https://towu.dev). Projects go to [my blog](https://blog.rambhat.la).
 
 -----------
 
 #### Current Stack
-- Prisma, PostgreSQL, FastAPI, SvelteKit, TailwindCSS
+- I'm always trying out new stuff. Take a look at my [projects](https://rambhat.la)
 
-I've built Full-stack apps, AI projects, DevOps workflows, Discord bots, and [other stuff](https://github.com/TheOnlyWayUp?tab=repositories). Change is good.
+Change is good!
 
 -----------
 
-Want to hire me? Just want to talk? I'm available at [`hi [at] towu.dev`](mailto://hi@towu.dev).
+Wanna talk? [`hi [at] towu.dev`](mailto://hi@towu.dev)
 
 <br>
 
