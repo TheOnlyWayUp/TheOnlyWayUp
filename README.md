@@ -50,7 +50,7 @@ Change is good!
 
 -----------
 
-Wanna talk? [`hi [at] towu.dev`](mailto://hi@towu.dev)
+Wanna talk? `hi [at] towu.dev`
 
 <br>
 
