@@ -20,11 +20,11 @@ I'm TheOnlyWayUp, a Full-Stack Developer with 8 Years of Experience. I love lear
 
 <a href="https://rambhat.la">Website</a>
 
-![image](https://github.com/user-attachments/assets/fa507365-5462-4839-b16d-9ff7552a998e)
+Currently learning Rust and maintaining [WattpadDownloader](https://github.com/theonlywayup/wattpaddownloader).
 
 
 📧 - [hi [at] towu.dev](mailto://hi@towu.dev) (Email)  
-💬 - [TheOnlyWayUp](https://discord.com/users/876055467678375998) (Discord)
+[ps: feel free to reach out, I don't bite!]
 
 
 </div></div>
@@ -39,14 +39,16 @@ I'm TheOnlyWayUp, a Full-Stack Developer with 8 Years of Experience. I love lear
 
 [Obsidian](https://obsidian.md) Wizard and Homelabber!
 
-I write fun stuff about what I do on [ponder](https://towu.dev). Projects go to [my blog](https://blog.rambhat.la).
+I write fun stuff about what I do on [ponder](https://towu.dev). Projects go on [my blog](https://blog.rambhat.la).
 
 -----------
 
 #### Current Stack
-- I'm always trying out new stuff. Take a look at my [projects](https://rambhat.la)
+- I'm always trying out new stuff - Take a look at my [projects](https://rambhat.la)
+- Recently, that's been Rust and Recommendation engines
 
-Change is good!
+Change is good   
+[yes, I refactor every 3 business days, how did you know?]
 
 -----------
 
